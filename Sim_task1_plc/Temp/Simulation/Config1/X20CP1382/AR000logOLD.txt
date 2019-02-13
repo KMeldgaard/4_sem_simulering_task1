@@ -1,0 +1,24 @@
+Wed Feb 13 11:45:09 2019
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Wed Feb 13 11:45:09 2019
+No ARsim registration found!
+
+Wed Feb 13 11:45:09 2019
+InstanceName: 01d4c38930ddb8c0
+
+Wed Feb 13 11:45:09 2019
+WorkingDirectory: C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Temp\Simulation\Config1\X20CP1382\
+
+Wed Feb 13 11:45:09 2019
+COMMAND_COLDSTART
+
+Wed Feb 13 11:45:11 2019
+COMMAND_TERMINATE
+
+Wed Feb 13 11:45:12 2019
+Version: D4.52
+
+Wed Feb 13 11:45:12 2019
+COMMAND_TERMINATE
+

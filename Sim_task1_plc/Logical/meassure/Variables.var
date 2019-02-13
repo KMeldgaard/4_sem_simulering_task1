@@ -1,0 +1,12 @@
+VAR CONSTANT
+	BELT_SPEED : UINT := 1000;
+	BELT_WIDTH : UINT := 650;
+	FIXED_HEIGHT : UINT := 0;
+END_VAR
+VAR
+	di_laser1 : BOOL;
+	ai_laser1 : UINT;
+	laser_timer : TON;
+	STATE : operation;
+	current_box : box;
+END_VAR

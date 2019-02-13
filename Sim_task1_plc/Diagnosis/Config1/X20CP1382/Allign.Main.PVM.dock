@@ -1,0 +1,18 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Allign 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=13 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                box_left                                   F_TRIG    0 "                                                               *"    0   24    1    0    1    1         
+                                     CLK                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                               do_feeder                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
+                              push_timer                                      TOF    0 "                                                               *"    0   24    1    0    1    1         
+                                      IN                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      PT                                     TIME    0 "                                                           T#01s"    1   12    1    1    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      ET                                     TIME    0 "                                                           T#01s"    1   12    1    1    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                               StartTime                                     TIME    0 "                                                 T#26m_08s_640ms"    1   12    1    1    0    0         
+                                 Restart                                    UDINT    0 "                                                               0"    1    7    1   10    0    0         
+                             di_photoeye                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
+                               do_pusher                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
