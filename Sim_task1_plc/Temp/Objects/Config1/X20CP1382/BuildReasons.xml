@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\main.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\meassure\main.st" differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\main.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\sorting_programs\sort_v2\main.st" differs.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\_bur_pvdef.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\main.st.o" differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\_bur_pvdef.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\main.st.o" differs.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\a.out">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\main.st.o" differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\main.st.o" differs.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\meassure.ox">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\a.out" differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\sort_v2.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\a.out" differs.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure\meassure.ox" differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2\sort_v2.ox" differs.
 </BuildReason>
   </Rule>
   <Rule ID="#cpu_tp.mak">
     <BuildReason>Rule is forced.</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20cp1382\transfer.lst">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\meassure.br" differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sort_v2.br" differs.
 </BuildReason>
   </Rule>
 </BuildReasons>

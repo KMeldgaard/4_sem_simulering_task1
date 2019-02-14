@@ -3,6 +3,8 @@
 <Transfer xmlns="http://br-automation.co.at/AS/Transfer">
   <OperatingSystem Version="D4.52"/>
   <Hardware Target="SG4"/>
+  <Operation Delete="sort.br"/>
+  <Operation Delete="sort_V2.br"/>
   <Operation Delete="meassure.br"/>
   <Operation Delete="asieccon.br"/>
   <Operation Delete="astime.br"/>
@@ -22,4 +24,6 @@
   <Operation Download="astime.br" Memory="UserROM"/>
   <Operation Download="asieccon.br" Memory="UserROM"/>
   <Operation Download="meassure.br" Memory="UserROM"/>
+  <Operation Download="sort_V2.br" Memory="UserROM"/>
+  <Operation Download="sort.br" Memory="UserROM"/>
 </Transfer>

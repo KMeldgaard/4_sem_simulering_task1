@@ -6,14 +6,24 @@
     <Task
       Name="meassure"
       Disable="false"
-      Source="meassure"
+      Source="Sorting_programs.meassure"
       Language="IEC">
       <InternalFile
         Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Temp\Objects\Config1\X20CP1382\meassure\Main.st.var" />
       <File
-        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\meassure\Types.typ" />
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\meassure\Variables.var" />
+    </Task>
+    <Task
+      Name="sort_V2"
+      Disable="false"
+      Source="Sorting_programs.sort_V2"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Temp\Objects\Config1\X20CP1382\sort_V2\Main.st.var" />
       <File
-        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\meassure\Variables.var" />
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort_V2\Types.typ" />
+      <File
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort_V2\Variables.var" />
     </Task>
   </TaskClass>
   <TaskClass
@@ -27,7 +37,20 @@
   <TaskClass
     Name="Cyclic#6" />
   <TaskClass
-    Name="Cyclic#7" />
+    Name="Cyclic#7">
+    <Task
+      Name="sort"
+      Disable="false"
+      Source="Sorting_programs.sort"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Temp\Objects\Config1\X20CP1382\sort\Main.st.var" />
+      <File
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort\Types.typ" />
+      <File
+        Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort\Variables.var" />
+    </Task>
+  </TaskClass>
   <TaskClass
     Name="Cyclic#8" />
 </ConfigInfo>

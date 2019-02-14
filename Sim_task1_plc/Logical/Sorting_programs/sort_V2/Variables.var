@@ -1,0 +1,7 @@
+VAR
+	do_pusher2 : BOOL;
+	do_pusher1 : BOOL;
+	timer : TON;
+	di_laser4 : BOOL;
+	push_timer : TON;
+END_VAR

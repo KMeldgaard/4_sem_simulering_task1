@@ -5,7 +5,7 @@
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Package.pkg"
     LogicalPath=""
     Type="Package.ParentUnknown"
-    LastWriteTime="131945274656980684" />
+    LastWriteTime="131946072517580898" />
   <Object
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Global.typ"
     LogicalPath="Global.typ"
@@ -139,27 +139,84 @@
     LastWriteTime="131945223463905065"
     Private="false" />
   <Object
-    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\meassure\IEC.prg"
-    LogicalPath="meassure"
-    Type="Program"
-    LastWriteTime="131945220424641034" />
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\Package.pkg"
+    LogicalPath="Sorting_programs"
+    Type="Package"
+    LastWriteTime="131946121118411060" />
   <Object
-    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\meassure\Main.st"
-    LogicalPath="meassure.Main.st"
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\Types.typ"
+    LogicalPath="Sorting_programs.Types.typ"
     Type="File"
-    LastWriteTime="131945288396747618"
-    Private="false" />
-  <Object
-    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\meassure\Types.typ"
-    LogicalPath="meassure.Types.typ"
-    Type="File"
-    LastWriteTime="131945276291427085"
+    LastWriteTime="131946121118391109"
     Private="true" />
   <Object
-    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\meassure\Variables.var"
-    LogicalPath="meassure.Variables.var"
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\shared_vars.var"
+    LogicalPath="Sorting_programs.shared_vars.var"
     Type="File"
-    LastWriteTime="131945276853138441"
+    LastWriteTime="131946126275252430"
+    Private="true" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\meassure\IEC.prg"
+    LogicalPath="Sorting_programs.meassure"
+    Type="Program"
+    LastWriteTime="131946072612237788" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\meassure\Main.st"
+    LogicalPath="Sorting_programs.meassure.Main.st"
+    Type="File"
+    LastWriteTime="131946146449461842"
+    Private="false" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\meassure\Variables.var"
+    LogicalPath="Sorting_programs.meassure.Variables.var"
+    Type="File"
+    LastWriteTime="131946126245173620"
+    Private="true" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort_V2\IEC.prg"
+    LogicalPath="Sorting_programs.sort_V2"
+    Type="Program"
+    LastWriteTime="131946121066579638" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort_V2\Main.st"
+    LogicalPath="Sorting_programs.sort_V2.Main.st"
+    Type="File"
+    LastWriteTime="131946152740002596"
+    Private="false" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort_V2\Types.typ"
+    LogicalPath="Sorting_programs.sort_V2.Types.typ"
+    Type="File"
+    LastWriteTime="131946121684826576"
+    Private="true" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort_V2\Variables.var"
+    LogicalPath="Sorting_programs.sort_V2.Variables.var"
+    Type="File"
+    LastWriteTime="131946129884567679"
+    Private="true" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort\IEC.prg"
+    LogicalPath="Sorting_programs.sort"
+    Type="Program"
+    LastWriteTime="131946120909768918" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort\Main.st"
+    LogicalPath="Sorting_programs.sort.Main.st"
+    Type="File"
+    LastWriteTime="131946120909719056"
+    Private="false" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort\Types.typ"
+    LogicalPath="Sorting_programs.sort.Types.typ"
+    Type="File"
+    LastWriteTime="131946120909739007"
+    Private="true" />
+  <Object
+    Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Logical\Sorting_programs\sort\Variables.var"
+    LogicalPath="Sorting_programs.sort.Variables.var"
+    Type="File"
+    LastWriteTime="131946120909758945"
     Private="true" />
   <Object
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Physical\Config1\Config.pkg"
@@ -170,7 +227,7 @@
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Physical\Config1\Hardware.hw"
     LogicalPath="Config1.Hardware.hw"
     Type="File"
-    LastWriteTime="131945283638017949"
+    LastWriteTime="131946140402381837"
     Private="false" />
   <Object
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Physical\Config1\Hardware.hwl"
@@ -187,7 +244,7 @@
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Physical\Config1\X20CP1382\Cpu.sw"
     LogicalPath="Config1.X20CP1382.Cpu.sw"
     Type="File"
-    LastWriteTime="131945274657200367"
+    LastWriteTime="131946122298610494"
     Private="false" />
   <Object
     Path="C:\Users\acer\Documents\GitHub\4_sem_simulering_task1\Sim_task1_plc\Physical\Config1\X20CP1382\Cpu.per"

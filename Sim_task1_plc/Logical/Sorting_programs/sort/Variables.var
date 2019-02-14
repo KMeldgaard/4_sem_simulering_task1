@@ -1,0 +1,8 @@
+VAR
+	di_laser2 : BOOL;
+	di_laser3 : BOOL;
+	do_pusher2 : BOOL;
+	do_pusher1 : BOOL;
+	trigger : F_TRIG;
+	push_timer : TON;
+END_VAR

@@ -1,0 +1,25 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=sort_V2 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=20 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                               di_laser4                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
+                              do_pusher1                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
+                              do_pusher2                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
+                              push_timer                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      IN                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      PT                                     TIME    0 "                                                         T#400ms"    1   12    1    1    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      ET                                     TIME    0 "                                                           T#0ms"    1   12    1    1    0    0         
+                               StartTime                                     TIME    0 "                                                 T#40m_08s_430ms"    1   12    1    1    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                 Restart                                    UDINT    0 "                                                               7"    1    7    1   10    0    0         
+                                   timer                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      IN                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      PT                                     TIME    0 "                                                     T#01s_250ms"    1   12    1    1    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      ET                                     TIME    0 "                                                           T#0ms"    1   12    1    1    0    0         
+                               StartTime                                     TIME    0 "                                                 T#40m_07s_170ms"    1   12    1    1    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                 Restart                                    UDINT    0 "                                                               7"    1    7    1   10    0    0         
+                                next_box                                      box    0 "                                                               *"    0   24    1    0    0    1         
+                                    type                                     DINT    0 "                                                               1"    1    4    1   10    0    0 e,0,sml;
+

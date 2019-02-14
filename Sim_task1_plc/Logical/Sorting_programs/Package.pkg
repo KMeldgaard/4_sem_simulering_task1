@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File" Description="Local data types" Private="true">Types.typ</Object>
+    <Object Type="File" Private="true">shared_vars.var</Object>
+    <Object Type="Program" Language="IEC">meassure</Object>
+    <Object Type="Program" Language="IEC">sort_V2</Object>
+    <Object Type="Program" Language="IEC">sort</Object>
+  </Objects>
+</Package>
